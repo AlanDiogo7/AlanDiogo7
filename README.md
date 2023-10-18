@@ -7,8 +7,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlanDiogo7&bg_color=0d1117&color=00fbff&line=306a97&point=acd7d2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlanDiogo7&show_icons=true&count_private=true&hide_border=true&title_color=48D1CC&icon_color=7FFFD4&text_color=DCDCDC&bg_color=0d1117" alt="Alan Diogo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiogo7&layout=compact&hide_border=true&title_color=48D1CC&text_color=DCDCDC&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlanDiogo7&show_icons=true&count_private=true&hide_border=true&title_color=8cb8e3&icon_color=8cb8e3&text_color=DCDCDC&bg_color=040414" alt="Alan Diogo github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiogo7&layout=compact&hide_border=true&title_color=8cb8e3&text_color=DCDCDC&bg_color=040414" />
 </div>
 
 <p align="center">
@@ -25,7 +26,7 @@
  ### Main skills:
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
  
 
 
