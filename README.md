@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan Diogo R</h1>
 <h3 align="center">Passionate about Science, Data Analysis, and Backend Development</h3>
 
-<img align= "right" alt="coding" width="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fl-death-note-death-note-ryuzaki-angry-gif-20718311&psig=AOvVaw05Kli7IbM5xMSZURwaHRhl&ust=1697726425097000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPijvvbp_4EDFQAAAAAdAAAAABAN">
+<img align= "right" alt="coding" width="https://media.tenor.com/nVnp3AebrakAAAAC/l-death-note-death-note.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alandiogo7&label=Profile%20views&color=0e75b6&style=flat" alt="alandiogo7" /> </p>
 
